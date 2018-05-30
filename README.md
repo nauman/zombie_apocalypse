@@ -43,14 +43,14 @@ zombies have been created and all the zombies have completed moving the program 
 Your task is to program to take an input txt file about the zombie game and output the result.
 
 Given a file that contains:
-● dimensions of the area (N)
-● initial position of the zombie
-● a list of positions of poor creatures
-● and a list of moves zombies will make
+- dimensions of the area (N)
+- initial position of the zombie
+- a list of positions of poor creatures and 
+- a list of moves zombies will make
 
 The program output
-● the number of points scored by the zombies
-● the final position of the zombies
+- the number of points scored by the zombies
+- the final position of the zombies
 
 Example input:
 4
